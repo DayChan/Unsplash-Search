@@ -4,6 +4,10 @@ A Vue.js based website for searching pictures in Unsplash
 
 WANG CHEN 2020
 
+## Preview
+
+![Preview](./imgs/preview.png)
+
 ## Project setup
 ```
 npm install
