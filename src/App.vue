@@ -116,7 +116,7 @@
           })
       },
       openLink (url) {
-        window.open(url,'_blank') // 新窗口打开外链接
+        window.open(url,'_blank')
       },
       showMenu(){
 
