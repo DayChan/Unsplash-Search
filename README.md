@@ -1,4 +1,4 @@
-# UNSPLASH SEARCH
+# Unsplash Search
 
 A Vue.js based website for searching pictures in Unsplash
 
