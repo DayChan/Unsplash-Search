@@ -1,4 +1,8 @@
-# vuetify-dashboard
+# UNSPLASH SEARCH
+
+A Vue.js based website for searching pictures in Unsplash
+
+WANG CHEN 2020
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
